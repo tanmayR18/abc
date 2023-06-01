@@ -22,20 +22,23 @@ Click on the link given below or follow the instrucations given below to run the
 
 ## Run Locally
 
-Clone the project
+1. Clone the project
 
 ```bash
   npm install
 ```
 
-Go to the project directory
+2. Go to the project directory
 
 ```bash
   npm run start
 ```
 
+3. Go to the localhost:5173 ( go to browser and paste =>  http://localhost:5173/ )
 
 
+
+ 
 ## Live Link
 
 https://warm-sprinkles-a3e818.netlify.app/
