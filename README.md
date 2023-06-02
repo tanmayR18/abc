@@ -41,5 +41,5 @@ Click on the link given below or follow the instrucations given below to run the
  
 ## Live Link
 
-https://warm-sprinkles-a3e818.netlify.app/
+https://discord-landing-page-18.netlify.app/
 
